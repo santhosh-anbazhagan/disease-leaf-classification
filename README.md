@@ -29,4 +29,4 @@ This project focuses on identifying plant leaf diseases using a Convolutional Ne
 ## How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/santhosh-anbazhagan/disease-leaf-classification
+   git clone https://github.com/santhosh-anbazhagan/disease-leaf-classification.git
